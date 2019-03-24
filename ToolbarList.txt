@@ -1,0 +1,369 @@
+TonyKlein's BHO Collection
+BHOList v1.0, written by Merijn
+Generated: 2005-05-03 14:24 (by SysInfo.org DB script)
+
+X {********-****-****-****-***********}: WinNB42.dll, (random Class ID) - NetNucleus/Mirar webband
+X {********-****-****-****-************}: SuperBar.dll , (random Class ID) - SuperBar, http://www.doxdesk.com/parasite/SuperBar.html 
+X {********-****-****-****-************}: WinNB41.dll, (random Class ID) - NetNucleus/Mirar webband
+X {00000000-0000-0000-0000-000000000001}: safesearch.dll - AutoSearch, http://www.doxdesk.com/parasite/AutoSearch.html 
+L {00000000-0002-0002-0000-000000000000}: siaiep.dll - Steganos Internet Anonym 6, http://www.steganos.com/en/sia/ 
+L {00000000-0008-5041-4354-0020e48020af}: 12popup.dll - 12Ghosts Popup Killer, http://12ghosts.com/ghosts/popup.htm 
+X {014DA6C9-189F-421a-88CD-07CFE51CFF10}: S4bar.dll, Mybar.dll - MySearch, http://doxdesk.com/parasite/MySearch.html 
+L {01A7812B-59E8-4A4F-BFD6-EEE6D4CB6BA2}: Tiscali BBar.dll   - Tiscali France, http://login.tiscali.fr/default.php 
+L {01E04581-4EEE-11D0-BFE9-00AA005B4383}: Internet Explorer Address Bar - 
+L {04164EC4-1E48-4279-818E-3721931E7636}: CleanBar.dll - CleanMyPc
+X {04719991-296F-4958-AA0F-FA25FFA5008B}: X8bar.dll - Excite Search bar, http://www.excite.com/ 
+O {0494D0D1-F8E0-41ad-92A3-14154ECE70AC}: Mybar.dll - My Way Speedbar, http://www.doxdesk.com/parasite/MySearch.html 
+O {0494D0D9-F8E0-41ad-92A3-14154ECE70AC}: Mybar.dll - MySearch, http://doxdesk.com/parasite/MySearch.html 
+O {07B18EA9-A523-4961-B6BB-170DE4475CCA}: Mwsbar.dll - MyWebSearch
+L {0A1375E1-56C2-11D6-8E45-8933A0FB5235}: Alibabar.dll - ALiBaBar toolbar
+L {0A4DC360-26A5-4FC1-8FB2-ADD00738A99B}: SURFGH~1.DLL - Surfghost, <a target=_top href="http://products.enterpriseitplanet.com/security/security/1059245261.html">Surfghost</a>
+L {0A6A6F79-BBE3-4A8B-8A64-9D1D1100A347}: Netnose.dll - NetNose toolbar, http://www.netnose.com/toolbar.htm 
+X {0AAF602E-72A1-45FE-BAB1-06971E07EAA2}: Bmeb.dll - i-lookup/Bmeb, http://www.doxdesk.com/parasite/ILookup.html 
+L {0ADCDFE7-8490-406D-91BF-88F71FD7F8AE}: pwicc.dll - Surf Pal, http://www.softdepia.com/surf_pal_download_116.html 
+L {0B53EAC3-8D69-4b9e-9B19-A37C9A5676A7}: NISShExt.dll - NIS 2004,  http://www.symantec.com/sabu/nis/nis_pe/ 
+X {0C9CBFE1-91CD-40C2-BB64-1EC84C4C46AF}: abeb.dll - i-lookup/Abeb, http://www.doxdesk.com/parasite/ILookup.html 
+X {0E1230F8-EA50-42A9-983C-D22ABC2E0099}: Searchit.dll - SearchIt Toolbar
+X {0E1230F8-EA50-42A9-983C-D22ABC2EEB4C}: awtoolb.dll - AroundWeb toolbar
+O {0E1230F8-EA50-42A9-983C-D22ABC2EED3B}: Eclickz.dll - eClickz toolbar, http://www.eclickz.com/privacy.php 
+L {0E1230F8-EA50-42A9-983C-D22ABC2EED3B}: Nntoolbar.dll - NordNet toolbar, http://www.teletrade.se/toolbar/ 
+L {0E1230F8-EA50-42A9-983C-D22ABC2EED3B}: idabar.dll - Internet Download Accelerator, http://www.westbyte.com/ida/index.phtml?pa...p=1&lng=English 
+X {0E1230F8-EA50-42A9-983C-D22ABC2EED3B}: ToolBand.dll - Adult Search bar ASSbar
+L {0E5CBF21-D15F-11D0-8301-00AA005B4383}: Internet Explorer Links Bar - 
+L {0FFE2F08-3AC9-4A91-A61D-4FF24F91A561}: RM4IE.dll - DigiMarc ImageBridge, http://www.digimarc.com/products/IMAGEBRIDGE/default.asp 
+L {11359F4A-B191-42d7-905A-594F8CF0387B}: Lexbar.dll - Lexico toolbar, http://dictionary.reference.com/tools/toolbar/ 
+X {11F6B95F-0774-4B8D-8C9E-6B552CBCAD14}: waeb.dll - I-lookup, http://www.doxdesk.com/parasite/ILookup.html 
+L {120FF052-1C61-4C14-8F54-BBBC4A988590}: Bxpbar.dll - MolBiol.Net Toolbar, http://www.r9corporation.fsnet.co.uk/toolbar/ 
+L {123249EB-F891-44C4-946F-450064F9080E}: IEDrBar.dll - IE Doctor Toolbar, http://www.axesoft.com/iedr/ 
+L {1402DF89-8043-44E9-AFE8-CB3DB644EF7D}: Flitterbug.dll - Flitterbug Toolbar, http://www.pccrafter.com/community/flitterbugsearch.aspx 
+L {165EAF06-A068-4BE1-8418-D92B2A196878}: Goudengidsbar.dll - Gouden Gids toolbar, http://www.goudengids.nl/static02/toolbar/info.html 
+L {17456D4E-823D-9B68-283C-1A819CBBDD19}: 17456D~1.DLL - TechBar2, http://www.windowsreinstall.com/sitestuff/shop/techbar.html 
+L {17939A30-18E2-471E-9D3A-56DD725F1215}: Iebar.dll - ReGet, http://deluxe.reget.com/en/ 
+X {179E4B4A-76C3-4F65-BCED-C9FA1A28D2EF}: NN_Bar.dll, NN_Bar**.dll (* = random digit) - NetNucleus/Mirar webband
+X {19E41A2D-BD9D-48bb-9576-27B2CF0877C0}: ZippyToolbar.dll - ZippyLookup toolbar
+X {1B0E7716-898E-48cc-9690-4E338E8DE1D3}: Assist.dll - CnsMin
+X {1B13BF1B-A528-4CC4-B5BF-553CAA6487AC}: Sbus.dll - i-lookup/Sbus, http://www.doxdesk.com/parasite/ILookup.html 
+X {1BC1FC4B-B0D2-4D8D-9307-2E40E2A8C257}: Hyperbar.dll - StartNow/HyperBar
+X {1C78AB3F-A857-482e-80C0-3A1E5238A565}: toolbar.dll, toolbar_.dll - iSearch toolbar
+L {1D62BD48-16F6-4004-A54A-3C41E4955A87}: BFTool_4.dll - Betfair, <a target=_top href="http://www.betfair.com/">Betfair</a>
+O {1D9B10E0-E90C-11D7-A399-B7BAC8911A3F}: Toolbar.dll - Arrow Toolbar, http://www.rt-software.co.uk/ 
+L {1F326B8F-CE7F-4C98-96A1-AC7A2B61D742}: Groowetoolbar.dll - Groowe Toolbar,  http://www.groowe.com/ 
+L {2005F7BA-6189-4607-BF8B-667679251CC0}: Linkmailer.dll - Linkmailer toolbar, http://www.linkmailer.com/ 
+X {21301D69-B8F1-46AA-B0B5-09EE2285914C}: CustomToolbar.dll - CustomToolbar, http://www.doxdesk.com/parasite/CustomToolbar.html 
+L {21301D69-B8F1-46AA-B0B5-09EE2285914C}: CustomToolbar.dll - KaxyToolbar, <a target="_blank" href="http://www.kaxy.com/get_the_free_kaxy_toolbar.htm">KaxyToolbar</a>
+L {21C32A07-0176-4FFE-BCDA-65D4A24F4303}: Intellistopper.dll, INTELL~1.DLL - Intellistopper Toolbar, http://smartstopper.com/ 
+X {224530A0-C9CB-4AEE-9C0F-54AC1B533211}: eXactToolbar.dll, Exacttoolbar*****.dll, (* = random digit) - Exact Searchbar, http://www.doxdesk.com/parasite/eXactSearch.html 
+X {22998D24-B789-4CA2-A7FC-CD7CE7DEB14C}: seek99.dll - seek99 Pay Per Click toolbar
+L {22D003CE-6952-46C5-80B9-D19B479620AB}: Stumbleupon.dll, stumble.dll, STUMBL~1.DLL - Stumbleupon toolbar, http://www.stumbleupon.com/ 
+L {2318C2B1-4965-11D4-9B18-009027A5CD4F}: googletoolbar.dll, googletoolbar*.dll (* = digit), googlenav.dll, googlenav*.dll, googletoolbar_en_*.**-big.dll, googletoolbar_en_*.*.**-deleon.dll - Google Toolbar
+X {23DDAE8C-6A79-4d62-80AA-E95D89CB9811}: explbar.dll - Pugi/SearchExplorer, http://www.doxdesk.com/parasite/Pugi.html 
+L {24AC2D89-8566-4A52-850A-24FAF8DF57E0}: TRPageReaderBar_.dll - IE Page-Reader Bar, http://www.text-reader.com/pagereaderbar/index.html    
+L {26CA4BD4-E63A-423D-AE08-933C2F8F0977}: ANONIE~1.DLL - GetAnonymous, http://www.getanonymous.com/getanonymous/ 
+X {270B845C-712C-4773-BEE0-AE2D2001CD0F}: Surebar.dll - EZCybersearch variant, http://www.doxdesk.com/parasite/ezCyberSearch.html 
+L {2BDEC2E4-819F-11D5-8846-006097B89050}: Ilsenav.dll - Ilse Navigator Toolbar, http://fun.ilse.nl/?page=navigator 
+X {2CF0B992-5EEB-4143-99C0-5297EF71F443}: stlbdist.dll - BrowserAid/Startium, http://www.doxdesk.com/parasite/BrowserAid.html 
+X {2CF0B992-5EEB-4143-99C0-5297EF71F444}: stlbdist.dll - BrowserAid/Startium, http://www.doxdesk.com/parasite/BrowserAid.html 
+X {2CF0B992-5EEB-4143-99C0-5297EF71F44A}: stlbad123.dll, stlbupdt.dll - BrowserAid/Startium, http://www.doxdesk.com/parasite/BrowserAid.html 
+X {2CF0B992-5EEB-4143-99C2-5297EF71F44A}: stlbupdt.dll - BrowserAid/Startium
+X {2CF0B992-5EEB-4143-99C2-5297EF71F44B}: stlbupdt.dll - BrowserAid/Startium
+L {2ECB7FB2-0333-416F-92FD-4904AD49252B}: 3Dnato~1.dll - 3dna toolbar, http://www.3dna.net/products/desktop.htm 
+X {30192F8D-0958-44E6-B54D-331FD39AC959}: Toolband.dll - CoolWebSearch parasite variant
+X {319A68DB-06D0-46DA-9F93-A810D5A70836}: Zipclix.dll - Zipclix, http://www.doxdesk.com/parasite/Zipclix.html 
+L {327C2873-E90D-4c37-AA9D-10AC9BABA46C}: Toolband.dll - Canon EasyWebPrint, http://www.canoneasywebprint.com/en/index.htm 
+X {337D0C1D-4053-4FAB-AF2B-45C2F7B0FAA6}: Browseraidtoolbar.dll - Findit Quick BrowserAid, http://www.doxdesk.com/parasite/BrowserAid.html 
+X {337D0C1D-4053-4FAB-AF2B-45C2F7B0FAA7}: Quicklaunchie.dll, Broweraidtoolbar.dll - BrowserAid
+X {339BB23F-A864-48C0-A59F-29EA915965EC}: toolbar.dll - Huntbar, http://www.doxdesk.com/parasite/HuntBar.html 
+L {340166BC-786B-401F-96AC-7C8821EFA9CD}: MereSurferF.dll - MereSurfer, http://www.meresoft.com/products/meresurfer/ 
+X {3717DF55-0396-463d-98B7-647C7DC6898A}: Hithopper.dll - HitHopper, http://www.hithopper.com/ 
+O {3717DF55-0396-463d-98B7-647C7DC6898A}: Salmon.dll - SalmonAnglers toolbar, http://salmonanglers.com/toolbar/toolbar2.html 
+X {3789CBF0-C4CA-4e98-B93B-22ACF0587FBA}: qi32.dll - Pugi/Qidion, <a href=http://www.doxdesk.com/parasite/Pugi.html" TARGET="_blank">Pugi/Qidion</a>
+L {37C8204D-97C3-4127-BB28-1BFF3FA2F7DA}: PnIE.dll - GuardIE, http://www.downloadatoz.com/guardie/ 
+X {382AA497-20D7-4EBB-A188-74660465940D}: Drbr.dll - i-lookup/Drbr, http://www.doxdesk.com/parasite/ILookup.html 
+L {38D2A281-0444-433C-9ED6-A2851795F32A}: TRReaderBar_.dll - Cosmo Popup, http://popbegone.askcosmo.com/ 
+X {3CEFF6CD-6F08-4E4D-BCCD-FF7415288C3B}: Shdocvw.dll, do not delete the file itself, it's a Windows system file! - Alexa Toolbar, http://pages.alexa.com/prod_serv/quicktour_new.html 
+L {3F753E5A-DF80-4850-801C-35880F80756C}: VMarks.dll - Visual Marks, http://www.6bytes.com/visualmarks.html 
+L {40D61F04-59E4-4C8D-BF6E-697AB9C21F43}: ChessBar.dll - Instant Chess, http://www.instantchess.com/?EXP=1&SN=uIKmSVlUf899VVfz 
+L {4194307F-65BB-454A-81D4-9E8A9D7CBAEA}: Teomabab.dll - Teoma search bar, http://sp.ask.com/docs/teoma/toolbar/ 
+L {41C098D1-A36B-11d4-9F8C-00E07D02355A}: GEOSAP~1.DLL - GeoSapoBar, <a target=_top href="http://geo.sapo.pt/asp/idconteudos.asp?idconteudos=21&Language=English">GeoSapoBar</a>
+X {423BD222-52BE-471A-BE01-75FCCEB3D48F}: winenc32.dll - i-Lookup/GlobalWebSearch, http://www.doxdesk.com/parasite/ILookup.html 
+L {42CDD1BF-3FFB-4238-8AD1-7859DF00B1D6}: NavShExt.dll - Norton Antivirus, http://www.symantec.com/nav/nav_9xnt/ 
+L {437434D2-065E-499D-A337-59657DF3342F}: CTBand.dll - PowerIE, http://www.powerie.com/ 
+L {43D9E6F0-1776-4897-AE14-ECEDECBAFEC0}: askbarAB.dll, askbarAC.dll, askbarAD.dll - Ask Jeeves toolbar, http://sp.ask.com/docs/toolbar/ 
+L {442599A9-EB41-4F1F-B999-737BC587F314}: NAJDIS~1.DLL - Najdi.si Toolbar, http://www.najdi.si/ 
+X {44A23DAB-8D31-43AE-9F68-5AC24CF7CE8C}: Msinfosys.dll - Msinfosys/AutoSearch hijacker, http://www.doxdesk.com/parasite/AutoSearch.html 
+X {44BE0690-5429-47f0-85BB-3FFD8020233E}: Ucmtsaie.dll - UCmore Search Accelerator
+L {459CAF0F-CA9F-4d69-A1A9-B0699D07AB8A}: NUKERB~1.DLL - AdNuker, http://www.adnuker.com/ 
+X {4647E382-520B-11D2-A0D0-004033D0645D}: mybands.dll - Internet Marketing Toolbar Pro, http://www.ezimedia.com/ 
+L {4647E382-520B-11D2-A0D0-004033D0645D}: DOCSShlToolBar.dll - Hummingbird DM Extensions
+L {46832FF5-95B5-4654-88F4-7F5F37AD1FC2}: WSO.dll - Alladin eToken Web Sign On 
+O {46AE04C0-BCFA-4728-90E7-00EB4A8B3863}: eBayband.dll - Ebay Toolbar, http://pages.ebay.com/ebay_toolbar/ 
+L {4708D1EF-3800-4E4E-9948-360BA9164264}: unknown - Wordz Toolbar, http://www.webattack.com/get/wordz.shtml 
+L {47833539-D0C5-4125-9FA8-0819E2EAAC93}: AcroIEFavClient.dll - Adobe Acrobat, http://www.adobe.com/products/acrobatpro/main.html 
+L {4982D40A-C53B-4615-B15B-B5B5E98D167C}: toolbar.dll - AOL toolbar
+X {49F2248D-1734-4B0F-A7B8-542E526EE07C}: autosearch.dll - YellowPages adware
+? {4A20B7AF-2835-47EF-BBBF-09CAF8AF2907}: ? - Health and Fitness toolbar
+X {4B8E6575-1013-45e9-BF77-9852ECEF07A9}: Tlsbar.dll - TheLocalSearch SmartBar, http://www.thelocalsearch.com/ 
+L {4BC3AC04-3E56-411D-B465-4FEA06654611}: ThinClientToolbar.dll - Iserv Accelerated Dialup, http://www.iserv.net/support/help_accel_info.shtml 
+O {4C4C942D-03B0-4041-94F2-73991832615F}: ArtTodayToolbar.dll - ArtToday, http://www.arttoday.com/toolbar/index.shtml 
+X {4CC0FAF8-6048-421C-9FE2-261A9ECE5F80}: Fastseekertoolbar.dll, FASTSE~2.DLL - Fastseeker toolbar
+L {4D63CEBE-B169-426C-B092-C130C498B6E6}: CSShell.dll - ContentSaver Offline Browser, http://www.macropool.com/en/index.html 
+L {4DF5B116-4FD9-4039-B377-1130953A980F}: ToolBand.dll - RHSI toolbar, http://www.rogershelp.com/help/content/download/software/softwareinfo.shtml 
+X {4E1075F4-EEC4-4a86-ADD7-CD5F52858C31}: 2020Search.dll, 2020SE~1.DLL - 2020Search
+X {4E7BD74F-2B8D-469E-92C6-CE7EB590A94D}: 2020Search2.dll, 2020SE~1.DLL - 2020Search
+L {4E7BD74F-2B8D-469E-92EA-EC65A294AE31}: ALTAVI~1.DLL - Altavista Toolbar, http://www.altavista.com/toolbar 
+X {4E7BD74F-2B8D-469E-98F7-EB6DB99AA93B}: ifsomatic.dll - Searchcentrix hijacker
+X {4E7BD74F-2B8D-469E-A08D-8F6FA787AD2D}: pwrsc032.dll - PowerSearch toolbar, http://www.doxdesk.com/parasite/KeenValue.html 
+X {4E7BD74F-2B8D-469E-A08E-8E1CA787AD2D}: pwrs0102.dll - PowerSearch toolbar
+X {4E7BD74F-2B8D-469E-A0E8-ED6DB696BB7D}: ACBARV2.DLL - Americlicks hijacker
+X {4E7BD74F-2B8D-469E-A1E4-EA6FA787AD2D}: pwrscuz3.dll - PowerSearch toolbar, http://www.doxdesk.com/parasite/KeenValue.html 
+L {4E7BD74F-2B8D-469E-A3F3-E96FF4D5FA7D}: cvm1.dll - Shop n Search toolbar,  http://www.consumervaluemall.com/toolbar/en/install.html 
+O {4E7BD74F-2B8D-469E-A3FA-F363B384B77D}: Mqgold.dll, mqgold*.dll (* = digit) - MapQuest toolbar, http://www.mapquest.com/features/main.adp?page=mqtoolbar 
+X {4E7BD74F-2B8D-469E-A58D-8F6FA787AD2D}: PWRSC037.DLL - hijacker
+X {4E7BD74F-2B8D-469E-A68E-8E1CA787AD2D}: pwrs0104.dll - PowerSearch toolbar
+X {4E7BD74F-2B8D-469E-AA8E-8E1CA787AD2D}: pwrs0108.dll - PowerSearch toolbar
+L {4E7BD74F-2B8D-469E-C0FB-FA62BD92B438}: engineer.dll - Engineering.com Toolbar
+L {4E7BD74F-2B8D-469E-C0FB-FB6DA681FA7D}: Trader.dll - TrendTrader toolbar
+X {4E7BD74F-2B8D-469E-C0FC-F76FA694BF2E}: Searchbr.dll - eUniverse SirSearch
+O {4E7BD74F-2B8D-469E-C0FF-FD60B590A87D}: realbar.dll - Real One toolbar
+L {4E7BD74F-2B8D-469E-C0FF-FD60B890A37D}: yellbar.dll - British Yellow Pages, http://uk.yell.com/tools/toolbar/yellbar.cab 
+X {4E7BD74F-2B8D-469E-C0FF-FD63B29BB37D}: infobar.dll - eUniverse Flowgo toolbar
+X {4E7BD74F-2B8D-469E-C0FF-FD63B399BC7D}: flgobar.dll - eUniverse Flowgo toolbar
+X {4E7BD74F-2B8D-469E-C0FF-FD69B994BD7D}: gamebar.dll - GameBar, <a target=_top href="http://member.game.net/Membership/Privacy.asp">GameBar</a>
+L {4E7BD74F-2B8D-469E-C0FF-FD69BD9BBF3A}: geniebar.dll - SmartGenie, http://www.smartgenie.com/ 
+L {4E7BD74F-2B8D-469E-C0FF-FD6DB787FA7D}: Rcabar.dll - R/C Toolbar, http://www.rcairport.com/toolbar/ 
+L {4E7BD74F-2B8D-469E-C0FF-FD78A087B530}: Morttbar.dll - Mortgage Toolbar, http://www.mortgage.com 
+L {4E7BD74F-2B8D-469E-C1EB-ED65B786FA7D}: Scirus.dll - Scirus toolbar, http://www.scirus.com/toolbar/ 
+L {4E7BD74F-2B8D-469E-C1F2-F063A081BF33}: Nettools.dll - Nettools, http://www.firewalls.com/toolbar.asp 
+L {4E7BD74F-2B8D-469E-C3FF-FB7FB59BFA7D}: Nasdaq.dll - Nasdaq Toolbar, http://www.nasdaq.com/services/nasdaq_toolbar.stm   
+X {4E7BD74F-2B8D-469E-D1F0-E56FA787AD2D}: pwrscznc.dll - PowerSearch toolbar
+X {4E7BD74F-2B8D-469E-D1F7-EB6DB99AA97D}: somatic.dll - Searchcentrix seek4free hijacker
+X {4E7BD74F-2B8D-469E-D3FA-F27BA787AD2D}: pwrswmda.dll - PowerSearch toolbar, http://www.doxdesk.com/parasite/KeenValue.html 
+L {4E7BD74F-2B8D-469E-D3FC-F363BB81A82F}: rrtoolba.dll - ResellerRatings toolbar, http://www.resellerratings.com/ 
+X {4E7BD74F-2B8D-469E-D4F3-F66DA787AD2D}: pwrsaimf.dll - PowerSearch toolbar
+X {4E7BD74F-2B8D-469E-D6F5-F66EA787AD2D}: pwrsbikd.dll - PowerSearch toolbar
+X {4E7BD74F-2B8D-469E-D7E4-F660B597BF2A}: Webalize.dll - Searchcentrix Webalize toolbar
+L {4E7BD74F-2B8D-469E-D7EE-FE6FA781BF33}: Netscape.dll - Netscape toolbar
+X {4E7BD74F-2B8D-469E-D9FB-FA6BAD98FA7D}: MyGeek.dll - Search-o-Matic2000 toolbar
+L {4E7BD74F-2B8D-469E-DAEE-FE7EB39ABD7D}: GOGRAPH.DLL - Gograph, http://en.toolbar.gograph.com/ 
+X {4E7BD74F-2B8D-469E-DBFC-ED1CA787AD2D}: pwrs0rbi.dll - PowerSearch toolbar
+X {4E7BD74F-2B8D-469E-DFF7-EC7DA787AD2D}: Pwrsqsim.dll - PowerSearch toolbar
+L {4E7D0B40-F575-4A29-9710-4675EAF4686A}: Minijvab.dll - Mini Jeeves Toolbar, http://www.ask.co.uk/toolbar/index.asp 
+L {4EBDC6E1-4B3C-11D7-BC75-008048C7A589}: Softwaresearch.dll - Software Search bar, http://www.iebars.com/softwaresearch.html 
+L {4F869C58-D71D-4850-8BDD-7B5CDF8EC911}: ibestbar.dll - iBest, <a target=_top href="http://cyberpoa.com.br/deupaunomicro/banibest.htm">iBest</a>
+X {528DA727-EC08-461E-9564-DF5C971E8574}: WinNB40.dll - NetNucleus/Mirar webband
+X {53CBEE82-D747-11d3-9ED0-005004189684}: Ucmie.dll - UCmore toolbar, http://www.doxdesk.com/parasite/UCmore.html 
+L {5420be57-2ed4-4f4f-9eb9-381cec2290e7}: ReadBar.dll - ReadingBar, http://www.readingbar.com/help/English.htm 
+X {54A85A38-A699-4AEC-8F88-AB542210C93B}: Gws.dll - i-lookup search bar, http://www.doxdesk.com/parasite/ILookup.html 
+L {5538fb62-f725-4433-a965-91314e8d8e4d}: toolbar1.dll - Vivisimo, http://vivisimo.com/toolbar/toolbar-features.html 
+X {55910916-8B4E-4C1E-9253-CCE296EA71EB}: eabh.dll - Ezula TopText, http://www.cexx.org/toptext.htm 
+? {55EDFA0E-B812-4AE5-94CC-8ABE6EA13515}: GameBar.dll - Game Net bar, <a target=_top href="http://play.game.net/">Game Net bar</a>
+X {57E69D5A-6539-4d7d-9637-775DE8A385B4}: Xupitertoolbar.dll, t.dll - Xupiter, http://www.doxdesk.com/parasite/Xupiter.html 
+X {5886A6DC-AAF4-45E9-979A-8E5E6DEE30E7}: zSearch.dll - TotalVelocity zSearch toolbar
+L {58A83E4F-477A-4A3F-BF9B-B65BC2BD5598}: siClientUIHotmail.dll - Spam Inspector Hotmail plugin, http://www.giantcompany.com/default.aspx?PID=A22046 
+L {5B2AD7D7-81E3-4B74-8B74-4600A67BBB8A}: PAGESURF.DLL - PageSurf.com Toolbar, http://www.pagesurf.com/toolbar.html 
+L {5BBFC00A-312C-4777-A5DF-DDA65C67120C}: Ubp.dll - Antipop-up UOL toolbar, http://antipopup.uol.com.br/ 
+L {5C9DCA26-CEC4-4280-A831-D622D4DBF113}: LINKMA~1.DLL - Linkman, http://www.outertech.com/index.php?_charisma_page=product&id=5 
+X {5CF8A355-F8C6-4883-9C25-49D01A7D25BE}: zestyfind.dll - hijacker
+L {5DE4E98D-DE09-4BC3-8A70-A6D9A24F4EC9}: 1Cie.dll - Image Extractor, http://www.icegiant.com/ieie.shtml 
+O {5E92F538-B50B-46C5-9C5F-C6EECED3F6C6}: Ultrabar.dll - Dogpile toolbar
+X {5F1ABCDB-A875-46c1-8345-B72A4567E486}: ISTbar.dll - ISTBar, http://www.doxdesk.com/parasite/ISTbar.html 
+X {5F1ABCDB-A875-46c1-8345-B72A4567E486}: data.dll, toolbar_nieuw**.dll (* = random digit) - DotCom toolbar variant
+L {5F6293C0-8686-11d5-9C62-000102117FC3}: palz3003.dll  - mini eresMas toolbar
+L {61B5B39F-0750-4637-9D70-A63A79978B5D}: gameknot_toolbar.dll - GameKnot, http://gameknot.com/list_games.pl? 
+L {62999427-33FC-4baf-9C9C-BCE6BD127F08}: Dapiebar.dll - DAP, http://www.speedbit.com/DefaultT.asp? 
+X {645FD3BC-C314-4F7A-9D2E-64D62A0FDD78}: pop***.dll , (* = random digit) - PeopleOnPage/AproposMedia, http://www.doxdesk.com/parasite/AproposMedia.html 
+O {65394353-C60B-4480-ADC3-02B7B4C434B4}: IETOOLBAR.DLL - ToolButton bar, http://www.toolbutton.com/ 
+X {6596829B-37D4-40ad-971B-1E9041725C52}: ietb.dll - Commander Toolbar
+L {663C7429-E454-11D3-B9AE-0000B4C32B4D}: webka.dll - Kangaroo Toolbar
+X {669695BC-A811-4A9D-8CDF-BA8C795F261C}: PowrStrp.dll - Powerstrip, http://doxdesk.com/parasite/PowerStrip.html 
+O {669695BC-A811-4A9D-8CDF-BA8C795F261C}: dlIEbar.dll - Slingshot, http://www.tenebril.com/products/slingshot/ 
+O {67970B26-F57D-4455-8262-81C3AE3B8B5E}: NetSnip.dll - Net Snippets, http://www.netsnippets.com/product_info.htm 
+X {69135BDE-5FDC-4B61-98AA-82AD2091BCCC}: systb.dll - IEplugin, http://www.doxdesk.com/parasite/IEPlugin.html 
+X {69550BE2-9A78-11D2-BA91-00600827878D}: shdocvw.dll - Tinybar (do not delete the file itself, it's a Windows system file!) , http://www.doxdesk.com/parasite/TinyBar.html 
+X {6A85D97D-665D-4825-8341-9501AD9F56A3}: Stoolbar.dll - HuntBar/WebSearch, http://www.doxdesk.com/parasite/HuntBar.html 
+O {6AC15BAC-8AE7-11D3-A458-0000C07BA55F}: Webhelp.dll - Webhelp, http://www.webhelp.com/webhelp/products/cobrowse.jsp 
+L {6E18F3FD-82DA-46EE-944C-CBEC9071D2F7}: NetworldToolbar.dll - NetWorld online toolbar, http://www.nwonline.net/toolbar.asp 
+X {6EF3AE25-5A7D-40C2-9B44-9ED0068621C0}: windec32.dll - I-lookup, http://www.doxdesk.com/parasite/ILookup.html 
+X {6F8ADBE2-8C92-4362-B0E6-7321AA49EE46}: Ultrabar.dll - New Toolbar is for the Dogs, http://www.spywareinfo.com/newsletter/archives/0903/3.php 
+X {702AD576-FDDB-4d0f-9811-A43252064684}: Toolbar.dll - Xupiter Orbitexplorer, http://www.doxdesk.com/parasite/Xupiter.html 
+O {71AAABE5-1F0F-11d7-BD6F-004854603DCE}: toolbar.dll - Trellian Toolbar, http://www.submitwolf.com/toolbar/ 
+X {71B8AB7E-CB3F-4471-878E-8E1DFDF49B8B}: WebCompassBar.dll - Bonzi, <a target=_top href="http://accs-net.com/smallfish/bonzi.htm">Bonzi</a>
+X {71CC3BD4-6217-44AB-B8D0-96AEAF9A8678}: UC.dll - UCmore toolbar, http://www.doxdesk.com/parasite/UCmore.html 
+X {71ED4FBA-4024-4bbe-91DC-9704C93F453E}: Iesearchbar.dll - Blazefind IESearchbar
+L {724D43A0-0D85-11D4-9908-00400523E39A}: RoboForm.dll - RoboForm, http://www.roboform.com/ 
+O {727D45C4-2BD1-41D2-B54E-97DEAF06AD9A}: msietk1020.dll - SearchFu/123Search, http://www.pestpatrol.com/PestInfo/s/search123.asp 
+X {72A58725-2635-4725-8C53-676DFD1FEB8D}: zeropopupbar.dll, Zeropopup.dll, Blocker.dll, ZEROPO~1.DLL - ZeroPopupBar, http://www.doxdesk.com/parasite/ZeroPopUp.html 
+X {72CEAE02-DF9C-49F3-9689-10D1B82DC343}: Toolbar.dll - BrowserAid/FindIt-Quick, http://www.doxdesk.com/parasite/BrowserAid.html 
+X {765E6B09-6832-4738-BDBE-25F226BA2AB0}: allch.dll, QcBar.dll - Qcbar/AdultLinks, http://www.doxdesk.com/parasite/AdultLinks.html 
+L {769a6fad-c100-4af9-9bf9-439e05ba1542}: mscoree.dll - Buzzoff Toolbar
+L {76D92AF6-2C25-4667-A54F-F75012BCB7B1}: Veronicabarshell.dll - Veronica toolbar, http://www.veronica.nl/modules.php?name=toolbarhelp&site=corporate 
+X {76EC9B95-D244-41F9-A5BE-6896EFFB40CF}: SearchToolbar.dll - Search Toolbar, http://www.searchtoolbar.com/download.php 
+L {774E69B6-C981-11D6-B1B1-0050DAB9F678}: browserToolbar.dll - NitroShock, http://www.nitroshock.com/ 
+L {777D0B4C-75C9-4874-ABFF-80B4BE8DC532}: IEBand2.dll - Download Toolbar, http://www.diodia.com/downloadtoolbar.htm 
+X {79049BCB-7C3A-467B-BFA9-0B8C1CD44463}: StartMakeToolbar.ocx - StartMake.com toolbar
+L {7A33D136-248C-4BA5-B72D-BB68F4AD9039}: GOLDEN~1.DLL - LittleBigBar, http://www.littlebigbar.com/ 
+L {7A3BA17E-A5C6-4889-8A78-80A3C3382118}: Jimworld.dll - JimWorld toolbar
+L {7A431EC4-CC21-4DF7-9DB1-A2CF74C4CC98}: bpumToolBand.dll - Telstra BigPond toolbar, http://www.bigpond.com/helpcentre/toolbar/ 
+L {7A4CB73C-64DF-4155-9EFA-57F86560245E}: Mbnbar.dll - MolBiol.Net Toolbar, http://www.r9corporation.fsnet.co.uk/toolbar/ 
+L {7B49A2A5-B45F-46F3-AC60-2578477671EE}: Croc_bar.dll - Croc Crawler, http://www.croccrawler.com/download/croccrawler_toolbar.html 
+X {7B49A2A5-B45F-46F3-AC60-2578477671EE}: Ultrabar.dll - UltraBar, http://www.ultrabar.com/ 
+L {7B49A2A5-B45F-46F3-AC60-2578477671EE}: Croc_bar.dll - Croc Crawler, http://www.croccrawler.com/download/croccrawler_toolbar.html 
+X {7B49A2A5-B45F-46F3-AC60-2578477671EE}: donk_bar.dll - LOP
+X {7B64270B-1216-47CE-9708-DE9D2D628CC5}: proventactics.dll - ProvenTactics toolbar, http://www.proventactics.com/ 
+L {7BA7B95F-9B92-4132-8012-E19B585CAF21}: Nutshell.dll - Nutshell toolbar, http://www.torrez.org/projects/nutshell/ 
+X {7C24A476-8B03-46ed-8CCF-CE8AE7213C99}: seek99.dll - Seek99 toolbar, http://big3.seek99.com/toolbar.htm 
+L {7E82235C-F31E-46CB-AF9F-1ADD94C585FF}: pstopper.dll - Panicware Popup Stopper, http://www.panicware.com/ 
+L {7EED2A74-002E-481F-A283-D96B81EA244B}: Psukbar.dll - Pepesearch toolbar, www.pepesearch.co.uk 
+X {80E81A0E-9741-4FBC-8EE3-3B78C04ADA1D}: TpBar.dll - TOPicks, http://www.doxdesk.com/parasite/TOPicks.html 
+X {81270159-E8F9-4713-9646-03531E0EEF58}: LIE1D6FF.DLL - HTMLEdit trojan/hijacker
+L {81766E08-CE68-4F23-95C4-C1468FDE68AA}: ZONNETSHELL.DLL - Zonnet toolbar, http://www.zonnet.nl/toolbar/ 
+L {81F4066B-F330-4872-8094-3E9FBCCEC8C1}: RepliGoIEBar.dll - RepliGo, http://www.cerience.com/ 
+X {82315A18-6CFB-44a7-BDFD-90E36537C252}: QuickSearchBar1_27.dll  - NewDotNet searchbar
+X {82599E0A-8C81-11d7-9F97-0050FC5441CB}: shdocvw.dll - TinyBar (do not delete the file itself, it's a Windows system file!), http://www.doxdesk.com/parasite/TinyBar.html 
+O {8272B062-BD4D-4EAD-A149-45B3CE3F5CDA}: GPalm.dll - GreasyPalm bar, http://www.greasypalm.co.uk/ 
+X {8333C319-0669-4893-A418-F56D9249FCA6}: DailyToolbar.dll - DailyToolbar,  p0rn related.
+X {856D6A8E-A24C-498A-A55A-2B25C606A6B4}: netster.dll, _netster.dll  - Netster Smart Browse Toolbar, http://at.netster.com/Index.asp?Site=YXQubmV0c3Rlci5jb20%3D 
+X {85C2C2A1-3F20-4EAD-ADC3-BD3217391543}: Rundll16.dll - BrowserAid/Rundll16, http://www.doxdesk.com/parasite/BrowserAid.html 
+X {85C76FBD-6218-4379-95C1-B4F37BF6180}: SearchBar.dll - PopMonster SearchNav.com/PopNav foistware
+O {862fb893-b24b-4fad-80d3-a1158eb34db4}: cnetsearchbar.dll - CNET SearchBar, http://www.search.com/guides/sb/faq.html 
+L {86B09C4E-4137-4863-B585-380205F1F774}: CSShell.dll  - ContentSaver Offline Browser, http://www.macropool.com/en/index.html 
+L {86BCA93E-457B-4054-AFB0-E428DA1563E1}: Petoolbar401.dll - Popup Eliminator, http://www.popupeliminator.info/ 
+X {87B1E57C-FF70-4C69-9CE8-57CB8F67ABA8}: Wbm.dll - Wishbone Toolbar, http://www.wishbonemedia.com/products.html 
+X {8A05273A-2EA5-42DE-AA75-59EA7D9D50D7}: Msiets.dll - Huntbar, http://www.doxdesk.com/parasite/HuntBar.html 
+L {8B68564D-53FD-4293-B80C-993A9F3988EE}: FSBar.dll - Freeserve toolbar
+O {8C6685AB-43FF-4BF0-822C-03F03E0B47EA}: myfastaccess.dll - My-fast-access, http://www.my-fast-access.com/first/ 
+L {8E09B2CC-C2A0-4786-B099-0B9101E92CA1}: YellowToolbar.dll - Yellow Internet Toolbar, http://www.yellowinternet.com/toolbar.asp 
+O {8E1E80F3-A3F0-41d4-BAA7-470442CFC906}: Nocs.dll - Nocs/NitroClicks toolbar
+L {8E2FF476-C576-4637-9F73-5FFE2116CC12}: jetbar.dll - Jetbar
+X {8E4C16F3-45C8-4B24-99E6-F55082B7C4F1}: Ineb.dll - i-Lookup, http://www.doxdesk.com/parasite/ILookup.html 
+L {8E718888-423F-11D2-876E-00A0C9082467}: msdxm.ocx - Internet Explorer Radio Bar
+L {8E85E48B-7FD4-423D-BFAD-FA345D497EB5}: ShellBar.dll - Command Prompt Bar, http://perso.wanadoo.fr/ruindivision/ 
+L {8E929F51-5914-11D6-971F-0050FC3F9161}: IEBand.dll - Pictures toolbar,  http://www.diodia.com/features.htm 
+L {8F05B1A8-9D77-4B8F-AF54-6B2202066F95}: popupus.dll - Panicware Popup Stopper, http://www.panicware.com/ 
+X {8F0D6EED-BC11-4E7F-8276-9748947E4A50}: Winlocator.dll - Xlocator/Winlocator
+X {8FB0F3E2-5193-11d7-9F88-0050FC5441CB}: shdocvw.dll, NOTE:  Do not delete dll itself; its a Windows system file!) - Tinybar, http://www.doxdesk.com/parasite/TinyBar.html 
+L {8FE3B060-4574-4691-B15A-B8A6703EBF6F}: Addressbarplus.dll - Addressbar Plus, www.adressbar.com  
+L {8FF5E183-ABDE-46EB-B09E-D2AAB95CABE3}: SnagItIEAddin.dll - SnagIt, http://www.techsmith.com/products/snagit/default.asp 
+L {904691A1-C588-4B27-BC47-D8599EDB3F97}: TelefoonBar.dll - Dutch Phonebook bar, <a target=_top href="http://www.telefoongidsmedia.nl/telefoongidswm/show/id=44023">Dutch Phonebook bar</a>
+X {91397D20-1446-11D4-8AF4-0040CA1127B6}: YNDBAR.DLL - Russian Searchbar, <a target=_top href="http://bar.yandex.ru">Russian Searchbar</a>
+X {92F02779-6D88-4958-8AD3-83C12D86ADC7}: toolbar.dll - WhyPPC, <a target=_top href="http://whyppc.com/privacy.php">WhyPPC</a>
+L {92F02779-6D88-4958-8AD3-83C12D86ADC7}: Mrwords.dll - MrWordsmith Search toolbar, http://toolbar.mrwordsmith.com/ 
+L {92F02779-6D88-4958-8AD3-83C12D86ADC7}: ast.dll - AST Toolbar, http://www.ast-ss.com/toolbar/toolbar_intro.asp 
+L {92F02779-6D88-4958-8AD3-83C12D86ADC7}: toolbar.dll - Dutch search toolbar
+X {92F02779-6D88-4958-8AD3-83C12D86ADC7}: toolbar.dll - Fizzle Wizzle Entertainment Searchbar
+L {930E4DE1-973D-42D6-BF6E-6788E06BD003}: Webbug.dll - Bugnosis, <a target=_top href="http://www.bugnosis.org/">Bugnosis</a>
+L {95188727-288F-4581-A48D-EAB3BD027314}: ZendIEToolbar.dll - Zend Studio, http://www.zend.com/store/products/zend-studio.php 
+L {954F618B-0DEC-4D1A-9317-E0FC96F87865}: IETOOL~1.DLL - Alive Text to Speech, http://www.text-speech.com/ 
+L {9595C62C-76C6-49A6-9BDA-3253DD7A34FF}: Fdabar.dll, Fdabar99.dll  - Free Downloads Accelerator, http://www.freedownloadscenter.com/Games/Tetris_Clone_Games/Bloxx_Download.html 
+X {965E6B07-6832-4738-BDBE-25F226BA2AB0}: Qabar.dll - AdultLinks Qabar, http://www.doxdesk.com/parasite/AdultLinks.html 
+X {9677F3F1-E994-451F-805F-7148CC8AE040}: Ultrabar.dll - WebCrawler toolbar
+X {96BBDFE1-2951-4F81-811E-31DF6436A329}: custtlb.dll - SCN TOOLBAR PROBLEMS, http://sportscollectors.net/home/default.asp 
+L {9885224C-1217-4c5f-83C2-00002E6CEF2B}: unknown - Neotrace, http://www.networkingfiles.com/PingFinger/Neotrace.htm 
+L {98C92840-EB1C-40bd-B6A5-395EC9CD6510}: IGIEBar.dll - InstantGet, http://www.majorgeeks.com/download.php?det=3886 
+O {99AFC088-C0DD-40ED-92D8-0C53E8997510}: grapevine.dll - WWGrapevine Toolbar
+X {9AD55269-A21C-4260-BA7F-866FD09E8A8E}: EasyBarShell.dll - Easybar, http://www.easybar.nl/ 
+L {9E1128F1-53FA-11d5-8490-0048548030CA}: m-wtoolbar.dll - Merriam-Webster Toolbar, http://www.m-w.com/tools/toolbar/ 
+L {9E3849D6-41EF-4B2F-86B7-632EF90758E4}: V3Bar.dll - Ahnlab V3 Antivirus, http://home.ahnlab.com/english/product/01_1.html 
+L {9E5BD40E-6287-11D6-9772-0002A5DD2483}: unknown - JBrowse toolbar, http://jbrowse.com/products/jbrowse/doc/helppage.html 
+L {9EEE0111-E81A-11D6-B1B2-444553540000}: ToolBand.dll - Addresses Toolbar, http://www.addresses.com/toolbar_download.php 
+L {9F6A22E6-1682-4F82-9B72-6314794CB253}: Updated.dll - Pop Blocker, http://www.iepopblocker.com/ 
+X {A1DD937D-71E1-4BB5-BD5D-1B01B9CB1C2F}: WinSB.dll - "Windows Search Bar" hijacker
+X {A3E02B37-8608-4f57-AD58-AB91F32BA4F4}: Masterbar.dll - Pugi/Masterbar, http://www.doxdesk.com/parasite/Pugi.html 
+X {A3E3F04C-F98C-4295-95EF-41C57425B077}: CNBarIE.dll - Commonname toolbar, http://www.doxdesk.com/parasite/CommonName.html 
+X {A49AA76F-7215-4F80-97D6-9A7E16A5FEE1}: coolbar.dll - LookThru Cool Search Bar
+L {A58686ED-FC46-44C3-95C6-4A812AB776F1}: FerretBand.dll - WebFerret, http://www.ferretsoft.com/learn.htm 
+L {A6790AA5-C6C7-4BCF-A46D-0FDAC4EA90EB}: advsbar.dll - Advanced Stock Bar, http://www.ashkon.com/stockbar/ 
+? {A6790AA5-C6C7-4BCF-A46D-0FDAC4EA90EB}: SIMPLE~1.DLL - A Simple Internet Toolbar
+O {A6890AA5-C6C7-4BCF-A46D-0FDAC4EA90EB}: PCHEasysearch.dll - PCH EasySearchBar
+L {A8E16533-7A2A-43F1-9EE9-901136EBA5D8}: Admintoobar.dll - Adminimizer toolbar, http://www.aspmodules.com/at/ 
+L {ACB1E670-3217-45C4-A021-6B829A8A27CB}: VSCShellExtension.dll - McAfee Virusscan, http://www.mcafee.com/default.asp 
+X {AEE46806-2C5A-4A4E-A5DD-B4531F64A187}: ********.dll (* = random char) - searchsprint bar
+X {AF657644-964C-4348-A8AD-72524B3A3FF1}: DELPHI~1.DLL - TopSurfer
+L {B0000209-50CF-11D1-A140-0000F802C250}: VAPopupKiller.dll - Popup Eater,  http://www.simpliciti.biz/popupeater_over.htm 
+X {B195B3B3-8A05-11D3-97A4-0004ACA6948E}: Hbhostie.dll - Hotbar, http://www.doxdesk.com/parasite/HotBar.html 
+L {B1E741E7-1E77-40D4-9FD8-51949B9CCBD0}: Popuppro.dll - Pop-Up Stopper Pro, http://www.panicware.com/popupstopper.html 
+L {B24BA06E-FB7B-4757-95C2-DC01125F750E}: Yrefresher.dll, YREFRE~1.DLL - IE refresh tool
+O {B2847E28-5D7D-4DEB-8B67-05D28BCF79F5}: Hptoolkt.dll, hpdtlk02.dll  - HP Explore Toolbar
+X {B418B139-414D-4374-820F-EE74520C5A0D}: ctavp5.dll, ctav3.dll - ezSearching, <a target=_top href="http://doxdesk.com/parasite/ezSearching.html">ezSearching</a>
+L {B50FCD28-C2CC-4f3b-B755-62B086EDE4D5}: Toolbar.dll - Be-Hosted/BeGlobal.com Demobar
+L {B57F2FF0-F338-4ED0-BD82-FB074FEFAA1F}: Bar.dll - Pagego toolbar, http://www.pagego.com/ 
+L {B5A34A93-D538-43A7-8371-864CB6148D12}: KVShell_1.dll - Jiangmin AntiVirus Bar, http://english.duba.net/duba_intr.htm 
+L {B7B76DD6-B6F0-4443-AF81-6A3ECF12A57D}: _MWOLTB.DLL - Merriam-Webster Toolbar, http://www.m-w.com/tools/toolbar/ 
+L {B7FDA31E-A16D-47F9-B374-78A866AC813D}: BonusBar.dll - BonusBar, http://www.bignerdsoftware.com/ 
+L {B9F633F6-EA44-45F4-91EB-FABFC65A0634}: sybil.dll - Liquid Surf
+L {BA52B914-B692-46c4-B683-905236F6F655}: mcvsshl.dll - McAfee Virusscan, http://www.mcafee.com/default.asp 
+X {BC97B254-B2B9-4D40-971D-78E0978F5F26}: ietoolbar.dll - CoolWebSearch parasite variant
+L {BDAD1DAD-C946-4A17-ADC1-64B5B4FF55D0}: Msntb.dll - MSN Toolbar, http://toolbar.msn.com/ 
+X {BDF6CE3D-F5C5-4462-9814-3C8EAC330CA8}: AdRoar.dll - AdRoar adware
+L {BFC32E1D-EE75-4A48-BC60-104E11EE2431}: WEBIE.DLL - Abitz Translator, <a target=_top href="http://www.abitz.com/uebersetz/pctransengl.php3">Abitz Translator</a>
+X {C109664B-CEB1-420b-B353-D55A561536DD}: SYSsfitb.dll - AdShooter/Searchforit
+X {C10A16B7-70FE-4CE3-A261-6FBA7CC3DD5B}: Lookquick.dll - LookQuick toolbar, http://www.lookquick.com/toolbar.html 
+L {C14DC52F-B4D9-11D5-B1E6-0050DAD7AF62}: Anonymizer.dll, ANONYM~1.DLL - Anonymizer, http://www.anonymizer.com/surfing/ 
+L {C338BA09-B77C-11D5-9214-00104B3195F0}: RecordOCX.ocx - DejaSurf, http://www.dejasurf.com 
+X {C4CA6559-2CF1-48B6-96B2-8340A06FD129}: AdBar.dll  - AdBars
+L {C52149CE-7962-4C8D-95A4-8733F63199BF}: unknown - NQL Browser Recorder, http://www.nqltech.com/BrowserRecorder.asp 
+X {C6335B00-E8D9-423e-A691-48D17CBB6C5A}: Praizetoolbar.dll - Praize toolbar, http://www.praize.com/toolbar/ 
+L {C733AE47-6AC0-4837-93DA-70278E88E7B2}: gtindctr.dll - Gtran wireless, http://www.gtranwireless.com/products/index.html 
+X {C9176930-9C9F-4cba-9723-0F58C3E7CED6}: (Random file name) - Whazit , http://www.doxdesk.com/parasite/Whazit.html 
+X {CA0B9B71-C2AF-11D3-B376-0800460222F0}: Iwonbar.dll - iWon Toolbar, http://www.doxdesk.com/parasite/Aornum.html 
+X {CA1D1B05-9C66-11D5-A009-000103C1E50B}: Pbar.dll - 4Arcade PBar, http://www.4arcade.com/powersearch/index.shtml 
+L {CAAE9D7F-FFCC-46CF-8DEE-00DCC6CDF5A1}: ZillaBar.dll - StopZilla, http://www.stopzilla.com/site/ 
+L {CADC957A-EF3E-4a08-B6DA-366BFFB97321}: Searchhippo.dll - SearchHippo, http://www.searchhippo.com/ 
+L {CBAA6F21-985C-11D4-A02B-00B0D073E889}: Llieobj.dll - LexLink toolbar, http://www.llrx.com/features/lexnex.htm 
+X {CC90CDA0-74A0-45b4-80EF-D89CA8C249B8}: DashBar15.dll -  DashBar
+X {CCE83E45-30B2-4BAE-B1F5-25D128D27A43}: Ezsearch.dll - EZCybersearch bar, http://www.doxdesk.com/parasite/ezCyberSearch.html 
+L {CECFF8DE-C145-4570-B030-10105AA82920}: Lateralartstoolbar.dll - Lateral Arts Toolbar, http://www.larts.co.uk/Toolbar.shtml 
+L {CFB25594-4D5F-11D6-AB7B-00B0D094B576}: IEPlugIn.dll - Systran toolbar, http://www.systransoft.com/Products/Personal.html 
+O {D2000F80-ABC6-11D3-9794-0090274D4CCA}: OSIEHLPR.DLL - Onscan, <a target=_top href="http://www.suespace.com/web/onscan/partners_related/network.html">Onscan</a>
+L {D3919E1A-D6A5-11D6-AC3E-00B0D094B576}: IEPlugIn.dll - Systran, http://www.systransoft.com/Products/Features.html 
+O {D3EA3B57-9A3E-4E80-BFF0-595F7A91D55E}: XenoBar.dll - XenoBar popupblocker, http://www.ultrasoftware.net/archive/detail.asp?id=2459 
+L {D4003A01-9B2C-4e24-9CD2-8D7DB1BDE096}: DGSToolbar.dll -  De Gule Sider toolbar
+L {D593DE91-7B41-45C2-830E-E9A99AB142AA}: 1ClickPicGrabber.dll - 1ClickPicGrabber, http://www.zabersoft.com/products.php?id=3 
+X {D7258ABE-571F-4DC2-ABD1-8393B13B1269}: RSSToolbar.dll - Related Site Search (BrowserAid), http://www.doxdesk.com/parasite/BrowserAid.html 
+L {D7F30B62-8269-41AF-9539-B2697FA7D77E}: PnEL.dll - Earthlink Pop-Up blocker, http://www.earthlink.net/home/software/popupblocker/totalaccessdownload/ 
+L {D8073790-84C7-4602-BF77-C6ACBF1612E4}: IBToolBar.dll - IncrediBar, http://www.incredibar.com/home.asp 
+X {D848A3CA-0BFB-4DE0-BA9E-A57F0CCA1C13}: Dealhlpr.dll - Dealhelper.com adware
+X {D8FA0364-7866-40A7-B340-A6069265AD9F}: Csearch.dll - CSearch
+L {DB43E4E6-FF8A-4018-8C8E-F68587A44A73}: PopUpCop.dll - PopUpCop, http://www.botspot.com/Intelligent_Agent/1972.html 
+L {DB96792F-834A-40FC-97CD-9A8ECDF484FE}: MapStanIETB.dll - MapStan toolbar, http://www.mapstan.net/en/predownload.jsp 
+L {DEDEDE03-0000-0000-C000-00A300000043}: MantaCL.dll - MantaDB Utilities, <a target=_top href="http://www.mantadb.com/">MantaDB Utilities</a>
+L {E01D96AB-DBBD-451D-BDCB-0EE420BC91B1}: Zibbar.dll - Zibb.nl Toolbar, http://www.zibb.nl/dossier.asp?portal=0&sctr=21&dossier=1100&bt=A&portalnaam=home 
+L {E0E899AB-F487-11D5-8D29-0050BA6940E3}: fgiebar.dll - FlashGet, http://www.amazesoft.com/ 
+L {E166B4A2-83E7-11D3-B4FD-004005A47AAA}: iec.dll - Powermarks Bookmark manager, http://www.kaylon.com/power.html 
+L {E19569C7-DBCA-4576-96A6-97DE7C5A22EF}: FREESE~1.DLL - FreeSearchPal, http://www.freesearchpal.com/toolbar.html 
+L {E26FDEC1-053B-11D6-B969-CEEBA9E95046}: Ieband3.dll - FirstStop WebSearch, http://www.firststopwebsearch.com/ 
+X {E2B1672A-DA31-4F7D-A2BF-C18C50BF8F6F}: Searchbosstoolbar.dll - SearchBoss toolbar, http://www.searchboss.com/tools/searchbar/  
+X {E3EEBBE8-9CAB-4C76-B26A-747E25EBB4C6}: coolwebsearch-info.dll, COOLWE~1.DLL - CoolWebSearch parasite variant
+L {E626DA33-FCDD-4918-833D-FD39900B11F0}: IECompanion.dll - IECompanion, http://www.bados.com/modules.php?name=Products&prod=IECompanion 
+X {E720B458-B65A-438C-9FF3-B1DF65D7DB3E}: LocatorS.dll - LocatorS toolbar
+X {E720B458-B65A-438C-9FF3-B1DF65D7DB3F}: shdocvw.dll  - LocatorS toolbar
+L {E75B287F-2D04-11D5-BBE0-0050047AA3D1}: AimAtSite.dll - AimAtSite Toolbar
+L {E915E62E-41DA-40D0-8106-3438B4D24394}: SurfBar.dll - WinSweep
+L {E97DAE80-0305-427e-ABA1-BDD775EF53B0}: Ietb.dll - SearchSpot, http://www.searchspot.com/toolbar.html 
+X {EAD0B31D-9DAE-42CE-9821-EF9794AEC515}: CGLBAR.DLL - CamGirlsLive Toolbar
+L {EC2D89DE-6936-4CB3-A641-94DB2CAAF67F}: BndFltr.dll - AdIEFiltr, http://www.utils32.com/adiefiltr.htm AdIEFiltr 
+X {EC788B03-A743-4274-AC9E-DB4F2A03F515}: Wst.dll - SearchAndBrowse toolbar, http://www.doxdesk.com/parasite/SearchAndBrowse.html 
+L {EDFB8B62-59EE-11d5-86C2-00E02975242F}: Ilorbar.dll - iLOR Toolbar,   http://www.ilor.com/ILSToolBeta.htm  
+L {EE9DD090-902D-4623-9360-FB7D8666202B}: AbsoluteBar.dll  - AbsoluteShield Internet Eraser
+L {EF99BD32-C1FB-11D2-892F-0090271D4F88}: Ycomp*_*_*_*.dll - Yahoo Companion!, http://companion.yahoo.com/ 
+L {EFA24E62-B078-11d0-89E4-00C04FC9E26E}: IE History Band - 
+L {F14AABDD-0232-4e5a-9B52-4178AC0A62B5}: adsubtb.dll - AdSubtract, http://www.adsubtract.com/index.html 
+L {F16E9E5F-92DD-4000-8701-FBDD48F24B86}: Iebarget.dll - GameScanner, http://www.gamescanner.com/iebar/  
+L {F16E9E5F-92DD-4000-8701-FBDD48F24B86}: Iebarget.dll - Semiseek toolbar, http://www.semiseek.com/toolbar.htm 
+L {F264E777-7AB7-4BEB-8A42-5C37C8F4B6B4}: Enotebar.dll - eNotes toolbar
+L {F2E259E8-0FC8-438C-A6E0-342DD80FA53E}: CopernicAgentExt.dll, COPERN~1.DLL - Copernic, http://www.copernic.com/en/products/agent/index.html 
+L {F50CE767-AE72-45EB-AECD-E8786C240373}: Petoolbar***.dll, * = a random digit) - Popup Eliminator, http://www.popupeliminator.info/ 
+L {F5528ECB-D64C-479D-AFEB-89C90FA191A3}: TOOLBAR.DLL - Pengs Toolbar, http://www.pengs.com/free_toolbar.htm 
+L {F5735C15-1FB2-41FE-BA12-242757E69DDE}: toolbar.dll - NetZero toolbar
+O {F79AD27F-8140-4E33-8B1D-C4FC6B663CCA}: CopernicMeta.dll - Copernic Meta toolbar
+O {F7B040B5-307B-4FAC-BB93-556A08156BAC}: Toolbar.dll - ACSearch toolbar
+L {F998DBF2-AA30-4599-8901-490F433E2ABC}: zkstlbr.dll - Freedom WebSecure, http://www.freedom.net/products/websecure/index.html 
+L {F9B9480F-8BE3-4117-985D-350ACEF1897A}: KudoZnetBar.dll  - KudoZ.NET toolbar
+L {FA91B828-F937-4568-82C1-843627E63ED7}: BandObjs.dll - Zero Knowledge Freedom Popup Killer, http://www.freedom.net/ 
+X {FB2961FD-DD24-4F8A-8A92-6F9325FF6F11}: Toolbar.dll - Supaseek toolbar
+O {FB986A68-EAE4-11D4-9BD1-0080C6F60B6A}: CouponBar.dll - CouponBar
+X {FD7D6851-616E-48DE-AF55-EE2E34F389B0}: SearchScoutToolbar.dll - SearchScout (Gator), http://www.doxdesk.com/parasite/Gator.html 
+X {FE6BC4EF-5676-484B-88AE-883323913256}: Csietb.dll - Comet Cursor, http://www.doxdesk.com/parasite/CometCursor.html 
+? {FF284F5C-7CF9-4682-8701-D467C1DBB99F}: prmtie.dll - Translator (unknown)
+X {FF7FD490-34E7-4FA1-927A-F5799E6AAD7B}: win32.dll -  Surferbar hijacker, http://forums.spywareinfo.com/index.php?showtopic=10456 
+X {FF905E0C-CFE9-4A90-AFFF-C13AF5D908F0}: CasinoRewardsExplorerToolbar.dll - CasinoRewards software
